@@ -293,6 +293,7 @@ While annotations are not specified by IIIF they are an important enabling techn
 
 - [Annona Annotation Library: iiif-annotation viewer JavaScript library](https://ncsu-libraries.github.io/annona/) - JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays.
 - [In the Spotlight](http://playbills.libcrowds.com/) - Crowdsourced contributions are serialised according to the [Web Annotations Data Model](https://www.w3.org/TR/annotation-model/).
+- [Madoc](https://madoc.digirati.com/) - A flexible transcription and annotation platform for crowdsourcing, research or teaching with IIIF collections.
 - [Recogito](https://recogito.pelagios.org/) - A popular and award-winning Digital Humanities platform for collaborative document annotation, maintained by [Pelagios](https://pelagios.org/). 
 - [Storiiies](http://storiiies.cogapp.com/) - Demos of using annotations for storytelling.
 
